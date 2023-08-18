@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Program
+title: Accredited Kanban Consultants
 tagline: The Accredited Kanban Consultant Program
-permalink: /program.html
-ref: program
+permalink: /akc.html
+ref: akc
 order: 2
 ---
-# AKC Program
+# Accredited Kanban Consultant (AKC) Program
 
-For more than 10 years, Kanban University’s Accredited Consultants have led the way in improving business outcomes for organizations both large and small. 
+For more than 10 years, Kanban University’s Accredited Kanban Consultants (AKCs) have led the way in improving business outcomes for organizations both large and small. 
 
 They have also advanced the method to include powerful tools used by organizations starting out on their pathway to customer orientation as well as organizations that have matured to be fit-for-purpose in their market. 
 
@@ -47,5 +47,5 @@ Consultants also participate in the recruitment and growth of the community thro
 
 [Email us](mailto:akc@kanban.university) and ask for an application or request a meeting with one of our AKCs if you have questions.
 <div style="text-align: center">
-    <img src="assets/images/2022-klrna-group-1.jpg" width=300px></img>
+    <img src="assets/images/2022-klrna-group-1.jpg" width=300px/>
 </div>
