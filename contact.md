@@ -4,8 +4,7 @@ title: Contact
 tagline: How to contact the Good Deeds Program
 permalink: /contact.html
 ref: contact
-order: 2
-
+order: 3
 ---
 # Contact - Good Deeds Program
 

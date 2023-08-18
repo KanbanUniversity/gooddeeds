@@ -4,8 +4,7 @@ title: Program
 tagline: The Accredited Kanban Consultant Program
 permalink: /program.html
 ref: program
-order: 1
-
+order: 2
 ---
 # AKC Program
 
@@ -46,4 +45,7 @@ Consultants also participate in the recruitment and growth of the community thro
 
 ### Get Started
 
-Email akc@kanban.university and ask for an application or request a meeting with one of our AKCs if you have questions.
+[Email us](mailto:akc@kanban.university) and ask for an application or request a meeting with one of our AKCs if you have questions.
+<div style="text-align: center">
+    <img src="assets/images/2022-klrna-group-1.jpg" width=300px></img>
+</div>
