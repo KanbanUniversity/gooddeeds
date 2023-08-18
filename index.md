@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # Kanban University Good Deeds Program
