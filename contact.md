@@ -1,5 +1,11 @@
 ---
 layout: page
+title: Contact
+tagline: How to contact the Good Deeds Program
+permalink: /contact.html
+ref: contact
+order: 2
+
 ---
 # Contact - Good Deeds Program
 

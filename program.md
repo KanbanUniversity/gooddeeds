@@ -1,5 +1,11 @@
 ---
 layout: page
+title: Program
+tagline: A few more words about the Accredited Kanban Consultant Program
+permalink: /program.html
+ref: program
+order: 1
+
 ---
 # AKC Program
 
