@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Kanban University - Good Deeds Program
 description: Home of the Kanban University Good Deeds program
+
+header_page_refs: ['program', 'about', 'contact']
