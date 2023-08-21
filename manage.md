@@ -23,6 +23,8 @@ The burden categories we've decided to start with are simply described as:
 - large (high burden, any duration)
 - extraordinary (high burden, long duration)
 
+![Good Deeds Burden Graph](/assets/images/Good-Deed-Burden-Graph-450px.png)
+
 ## Small Good Deeds 
 
 Small Good Deeds are expected to represent something that would take less than 1 day of work by an AKC over a short period of time. Examples of this would include:
