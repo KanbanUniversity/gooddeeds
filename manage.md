@@ -8,26 +8,26 @@ order: 1
 ---
 # How to Manage Your Good Deeds
 
-Good Deeds are categorized into an approximation of expected total "burden" on an AKC. Burden currently is considered to have 2 axis, Time and Effort. 
+Good Deeds are categorized into an approximation of expected total "burden" on an AKC. Burden currently is considered to have 2 axis, Duration and Effort. 
 
 Examples of this are:
 
-- Blog post (low burden / low duration)
-- Creation of a Case Study (moderate burden / long duration)
-- Attend a KLR - Money spent, short duration (high burden / short duration)
+- Blog post (low effort / low duration)
+- Creation of a Case Study (moderate effort / long duration)
+- Attend a KLR - Money spent, short duration (high effort / short duration)
 
 The burden categories we've decided to start with are simply described as:
 
-- small (low burden, low duration)
-- medium (moderate burden, low to long duration)
-- large (high burden, any duration)
-- extraordinary (high burden, long duration)
+- small (low effort, low to medium duration)
+- medium (moderate effort, low to long duration)
+- large (high effort, any duration)
+- extraordinary (> high effort, > long duration)
 
 ![Good Deeds Burden Graph](/assets/images/Good-Deed-Burden-Graph-450px.png)
 
 ## Small Good Deeds 
 
-Small Good Deeds are expected to represent something that would take less than 1 day of work by an AKC over a short period of time. Examples of this would include:
+Small Good Deeds are expected to represent something that would take less than 1 day of work by an AKC and would be expected to span a week of lead time. Examples of this would include:
 
 - Blog post
 - LinkedIn Article
@@ -43,7 +43,7 @@ Medium Good Deeds are expected to represent something that would take less than 
 
 ## Large Good Deeds
 
-Large Good Deeds are expected to have a large burden on an AKC (greater than 5 days of time invested or equivalent cost incurred by the AKC) over any sort of duration. Examples of these include:
+Large Good Deeds are expected to have a large burden on an AKC (greater than 5 days of effort invested or equivalent cost incurred by the AKC) over any sort of duration. Examples of these include:
 
 - Attending a Kanban Leadership Retreat
 - Significant contribution to the Kanban University Body of Knowledge
@@ -52,7 +52,7 @@ Large Good Deeds are expected to have a large burden on an AKC (greater than 5 d
 
 ## Extraordinary Good Deeds
 
-Extraordinary Good Deeds are expected to have a large burden for a long duration of time. Examples of this would be:
+Extraordinary Good Deeds are expected to have a very large effort investment for a duration exceeding 3 months. Examples of this would be:
 
 - Organizing and Running a Kanban-specific Meetup with > 6 meetings per year
 - Attending and Presenting at a Kanban-specific conference
